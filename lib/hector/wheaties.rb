@@ -1,0 +1,1 @@
+require "wheaties/service"

@@ -1,0 +1,16 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    eventmachine (0.12.10)
+    hector (1.0.4)
+      eventmachine (>= 0.12.10)
+    metaclass (0.0.1)
+    mocha (0.10.0)
+      metaclass (~> 0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hector (= 1.0.4)
+  mocha
