@@ -1,3 +1,0 @@
-[submodule "test/lib/hector"]
-	path = test/lib/hector
-	url = git://github.com/raws/hector.git
